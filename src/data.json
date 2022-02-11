@@ -1,0 +1,16 @@
+[
+    {
+        "firstName" : "Jaswinder",
+        "lastName" : "Singh",
+        "dateOfBirth": "2000-08-03",
+        "healthCard": "2222222222",
+        "gender" : "Male"
+    },
+    {
+        "firstName" : "Ramanpreet",
+        "lastName" : "Kaur",
+        "dateOfBirth": "2001-01-17",
+        "healthCard": "8108876957",
+        "gender" : "Female"
+    }
+]
